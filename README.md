@@ -2,16 +2,18 @@
 
 ## _Q: Who was the client? What issue did the company want you to address?_ ##
 
-### A: [Insert Answer Here Later]###
+### A: A client of Grand Strand Systems requested assistance in the creation & testing of a mobile application. The application needed to have the ability to create and edit Appointments, Contacts & Tasks with specific requirements in the variables for each. Additioanlly, the software needed to be tested to ensure proper coverage and that the customer's requirements were met.
 
 ## _Q: How can one ensure that code, programs, or software is functional and secure?_ ##
 
-### A: [Insert Answer Here Later]###
+### A: Code, programs, and software must be tested to ensure functionality and secure operations are acheived. White & black-box and even experience testing help developers to properly assure that the components, classes and the overall system produces desired outputs and performs as intended so that client/users specifications and expectations are exceeded. Testing in the SDLC is not only a core phase, but should be implemented as early as possible and well after software deployment. Testing not only helps ensure that code, programs, and software is functional & secure, but also helps developers, teams, and companies to achieve business goals and deliver an on-budget and high quality product.
 
 ## _Q: How can you interpret user needs and incorporate them into a program?_ ##
 
-### A: [Insert Answer Here Later]###
+### A: Gathering requirements is at the core of any SDLC. This processs ensures that the clients'/users' needs are understood and documented, and is the foundation of the planning & analysis, design & implementation, and testing & maintenance of any code. Developers and software designers main goal is to take the requirementes and user needs and translate them into a system that solves the problem or accomplishes the defined essential function. Careful detailed discussion/feedback and documentation helps in the overall interpretation and implmentation of needs into a program; and my practice of doing so with this client of Grand Strand is something I will incorporate into future programming/testing scenarios.
 
 ## _Q: How do you approach designing software?_ ##
 
-### A: [Insert Answer Here Later]###
+### A: Understanding the clients/users requirements is the core function of approaching designing software. Without knowing what the system is meant to do, designing and testing software becomes difficult and sporadic. But with the definition of requirements and knowing what issues the system is address lined out, both the development and the testing of the code becomes easy. Testing, as I've learned through this project, is another huge part of not only developing software but confirming that the design is well implemented. Testing should also be done immediately, and that the individual functions/classes work independently as well as cohesively with all parts of the system. Testing not only ensures that the data (and the data structures) flows as intended, but also meets the predetermined requirements.
+
+### For example, in the clients project, without testing the Hash Table I implemented to hold the data of the Contacts, Appointments, and Tasks until the end of development, I would have likely ran into errors and failures that would have taken additional time and resources to fix. Through this project (utilizing JUnit tests after each step and each iteration of classes) I've learned that continuous, unbiased, and disciplined testing not only made the development of the system seamless and improved the overall design to create a polished final artifact that meets the clients specifcations. Developers can greatly benefit from both gathering and properly interpreting user needs/requirements, and also cautiously testing in a disciplined, unbiased way incorporating all software testing techniques throughout all steps of the SDLC. This project further strengthened my skills and understanding as a software designer and tester.
